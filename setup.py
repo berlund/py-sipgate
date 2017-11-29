@@ -17,5 +17,5 @@ setup(
     author='Lars Engel',
     author_email='lars.engel@gmail.com',
     keywords=['example'],
-    url='https://github.com/berlund/sipgate'
+    url='https://github.com/berlund/py-sipgate'
 )

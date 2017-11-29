@@ -6,8 +6,8 @@ A more detailed description will follow as soon there is something to describe.
 
 ## Supported operations
 
-* devices/
-* devices/device_id
+* GET `devices/`
+* GET `devices/{device_id}`
 
 ## Supported authentication schemes
 
