@@ -1,3 +1,5 @@
 *.pyc
 .vscode
+dist
 test.py
+*.egg-info
